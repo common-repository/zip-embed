@@ -1,0 +1,152 @@
+# Copyright (C) 2010 Zip Embed
+# This file is distributed under the same license as the Zip Embed package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zip Embed 0.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/zip-embed\n"
+"POT-Creation-Date: 2011-11-12 06:24:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: zip-embed.php:93
+msgctxt "post type general name"
+msgid "Zips"
+msgstr ""
+
+#: zip-embed.php:94
+msgctxt "post type singular name"
+msgid "Zip"
+msgstr ""
+
+#: zip-embed.php:95 zip-embed.php:96 zip-embed.php:98 zip-embed.php:237
+#: zip-embed.php:246 zip-embed.php:537 zip-embed.php:539
+msgid "Upload Zip"
+msgstr ""
+
+#: zip-embed.php:97
+msgid "View Zip"
+msgstr ""
+
+#: zip-embed.php:99
+msgid "All Zips"
+msgstr ""
+
+#: zip-embed.php:101
+msgid "Search Zips"
+msgstr ""
+
+#: zip-embed.php:102
+msgid "No zips found"
+msgstr ""
+
+#: zip-embed.php:103
+msgid "No zips found in Trash"
+msgstr ""
+
+#: zip-embed.php:144
+msgid "Zip Files"
+msgstr ""
+
+#: zip-embed.php:145 zip-embed.php:157
+msgid "Original Zip"
+msgstr ""
+
+#: zip-embed.php:146
+msgid "Zip Attachments"
+msgstr ""
+
+#: zip-embed.php:173
+msgid "no thumbnail available"
+msgstr ""
+
+#: zip-embed.php:238 zip-embed.php:257
+msgid "Zip Embed Options"
+msgstr ""
+
+#: zip-embed.php:273
+msgid ""
+"To disable the included javascript, add the following to your theme's "
+"functions.php file"
+msgstr ""
+
+#: zip-embed.php:288 zip-embed.php:342 zip-embed.php:343
+msgid "Upload/Insert Zip"
+msgstr ""
+
+#: zip-embed.php:326
+msgid "Zips Library"
+msgstr ""
+
+#: zip-embed.php:330 zip-embed.php:491
+msgid "Embed"
+msgstr ""
+
+#: zip-embed.php:420
+msgid "%s uploaded"
+msgstr ""
+
+#: zip-embed.php:422
+msgid "%s could not be uploaded."
+msgstr ""
+
+#: zip-embed.php:424
+msgid " It has been deleted."
+msgstr ""
+
+#: zip-embed.php:486
+msgid "%s could not be extracted and has been deleted"
+msgstr ""
+
+#: zip-embed.php:492
+msgid "All done!"
+msgstr ""
+
+#: zip-embed.php:492
+msgid "View Zip post &rarr;"
+msgstr ""
+
+#: zip-embed.php:531
+msgid "Please make %s writable."
+msgstr ""
+
+#: zip-embed.php:543
+msgid "Maximum upload file size: %d%s"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Zip Embed 0.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: zip-embed.php:558
+msgid "Zip Embed"
+msgstr ""
+
+#: zip-embed.php:559
+msgid "Display Format"
+msgstr ""
+
+#: zip-embed.php:577
+msgid "Allowed shortcodes and default parameters"
+msgstr ""
+
+#: zip-embed.php:581 zip-embed.php:582
+msgid "Must be used inside [zip_files]"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://trepmal.com/plugins/zip-embed"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Upload a zip file and embed its contents"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kailey Lampert"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kaileylampert.com/"
+msgstr ""
